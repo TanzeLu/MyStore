@@ -1,0 +1,7 @@
+jacket01%34%23%32%43%23%green
+jacket02%34%23%32%43%23%green
+jacket03%34%23%32%43%23%green
+jacket04%34%23%32%43%23%green
+jacket05%34%23%32%43%23%green
+jacket06%34%23%32%43%23%green
+javax.swing.JLabel[,188,42,34x16,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@73618d18,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Name,verticalAlignment=CENTER,verticalTextPosition=CENTER]%45%44%34%45%45%blue
